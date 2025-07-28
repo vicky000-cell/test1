@@ -1,3 +1,3 @@
-let a=10
-let b =5
+let a=6
+let b=7
 console.log(a+b);
